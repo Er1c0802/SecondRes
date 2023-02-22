@@ -8,7 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
 
-        int acca = 23;
+        int accaa = 23;
 
         SpringApplication.run(DemoApplication.class, args);
     }
